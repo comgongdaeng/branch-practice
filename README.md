@@ -1,5 +1,6 @@
 # branch-practice
+$ git branch -d testing
 
 nice to meet you
 hello
-main modified
+feature modified
